@@ -1,0 +1,3 @@
+# These settings will be used if the cloud config is disabled in the bootstrap.properties or no matching setting is available form the azure app configuration resource
+#config:
+#    message: "this is a message from file"
