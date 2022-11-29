@@ -7,7 +7,7 @@
 param (
     $Key = '',
     $Label = 'testing',
-    $Subscription = 'e8d56387-2874-49b1-8e72-52c0b2a73d6e',
+    $Subscription = '',
     $AppConfigName = 'MyOfficeConfig'
 )
 
